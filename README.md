@@ -2,3 +2,5 @@
 empty classical structured project (to spare time)
 
 contains /libs, /src, /include, /bin
+
+now lets commit new changes
